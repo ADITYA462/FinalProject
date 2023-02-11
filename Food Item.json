@@ -1,0 +1,23 @@
+{
+     "1": {
+          "Food Name": "Tandoori Chicken",
+          "Quantity": 4,
+          "Price": 240,
+          "Stock": 50,
+          "Discount": 3
+     },
+     "2": {
+          "Food Name": "Vegan Burger",
+          "Quantity": 1,
+          "Price": 340,
+          "Stock": 80,
+          "Discount": 5
+     },
+     "3": {
+          "Food Name": "Truffle cake",
+          "Quantity": 500,
+          "Price": 900,
+          "Stock": 1100,
+          "Discount": 5
+     }
+}
